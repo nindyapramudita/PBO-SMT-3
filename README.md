@@ -1,3 +1,5 @@
+Nindya Pramudita 2309116063
+
 # POSTTEST 1
 Persayaratan didalam projek:
 * Percabangan
