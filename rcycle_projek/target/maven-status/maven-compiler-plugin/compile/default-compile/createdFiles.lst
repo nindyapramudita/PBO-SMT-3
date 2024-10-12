@@ -1,0 +1,7 @@
+com\mycompany\rcycle_projek\model\CallRequest.class
+com\mycompany\rcycle_projek\model\VIPCustomer.class
+com\mycompany\rcycle_projek\Rcycle_projek.class
+com\mycompany\rcycle_projek\service\CallRecycleService.class
+com\mycompany\rcycle_projek\service\ICrudService.class
+com\mycompany\rcycle_projek\service\RecycleService.class
+com\mycompany\rcycle_projek\model\RegularCustomer.class
