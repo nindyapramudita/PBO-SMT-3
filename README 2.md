@@ -1,6 +1,6 @@
 Nindya Pramudita 2309116063
 
-# POSTTEST 1
+# POSTTEST 2
 Persayaratan didalam projek:
 * Inheritance (minimal terdapat 2 subclass)
 * Encapsulation (getter dan setter)
